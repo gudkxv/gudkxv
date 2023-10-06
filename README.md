@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Java Spring
-### 📫 How to reach me: tg: @gudkxv
+### 📫 How to reach me: tg -  @gudkxv
 <!--
 **gudkxv/gudkxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
